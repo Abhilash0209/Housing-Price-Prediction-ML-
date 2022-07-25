@@ -1,2 +1,3 @@
-# Housing-Price-Prediction-ML-
-The goal of this project is to predict the price of the houses with required variables  by building machine learning regression models. 
+# Real Time Used Car Price Prediction [ML]
+Worked with management to develop and apply digital marketing plans with a focus 
+on driving acquisition and conversion 
